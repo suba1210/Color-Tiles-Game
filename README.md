@@ -23,3 +23,5 @@ Hacker Mode:
 - [x] Create difficulty modes (for example, easy mode can have a 3x3 inner grid and 5x5 outer grid and normal mode can have a 4x4 inner grid and 6x6 outer grid) 
 - [x] Using local storage, store and display the name and score of the player with the highest score.
 - [x] Use media queries to make the page responsive on mobile.
+
+[Click here to enjoy playing Color Tiles]()
