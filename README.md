@@ -24,4 +24,11 @@ Hacker Mode:
 - [x] Using local storage, store and display the name and score of the player with the highest score.
 - [x] Use media queries to make the page responsive on mobile.
 
+Hacker++ Mode:
+
+- [] Make the game multiplayer where two people can play with the same initial - board and reach the same solution.
+- [] Player who completes with the least number of moves wins the game.
+- [] Display the least number of moves after the game ends and maintain a  separate high score for two player games.
+- [x] Implement difficulty modes with varying grid sizes for multiplayer games.
+
 [Click here to enjoy playing Color Tiles!](https://suba1210.github.io/Color-Tiles-Game/)
