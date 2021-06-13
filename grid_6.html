@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COLOR TILES</title>
+    <link rel="icon" href="favicon.jpg" type="image/icon type">
+    <link rel="stylesheet" href="grid_6.css">
+</head>
+<body>
+   <p class="toptext" style="font-size: 2em;">Solve This, If You Can!</p>
+   <br>   
+   <br>
+   <center><span class="high">Your Highest Score: <span id="Hscore"></span></span></center>
+   <br><br>
+    <div id="topmen" class="topmenu">
+        <div class="reset">
+         <a style="text-decoration: none;" href="grid_6.html" > RESET THE GAME</a>
+        </div>
+        <div class="reset">
+            <a style="text-decoration: none;" href="index.html" > GO TO HOME PAGE </a>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="reset" style="color:blue"> <span>Timer : <span id ="timer">500</span></span></div>
+    <br>
+    <div class="singleRow">
+
+    <div class="upgrid" id="up3x3">
+        
+        <div class="uprow">
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+        </div>
+        <div class="uprow">
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+        </div>
+        <div class="uprow">
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+        </div>
+        <div class="uprow">
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+            <div class= "upbox"></div>
+        </div><br>
+       
+    </div>
+    <div class="downgrid" id="down5x5">
+        <div class="forOpacity">
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+        </div>
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class="black">
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+            </div>      
+            <div class= "downbox"></div>
+        </div>
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class="black">
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+            </div>
+            <div class= "downbox"></div>
+        </div>
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class="black">
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+                <div class= "downbox" ></div>
+            </div>
+            <div class= "downbox"></div>
+        </div>
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class="black">
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+        </div>
+            <div class= "downbox" ></div>
+        </div>
+        <div class="downrow">
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox"></div>
+            <div class= "downbox" ></div>
+        </div>
+    </div>
+    <div class="winLose"></div>
+    </div>
+</div>
+<audio id="winAudio">
+    <source src="win music.wav" type="audio/wav">
+</audio>
+
+<audio id="loseAudio">
+    <source src="lose music.wav" type="audio/wav">
+</audio>
+
+    <script src="grid_6.js"></script>
+</body>
+</html>
