@@ -16,3 +16,10 @@ Normal Mode:
 - [x] Generate a random 3x3 grid for each game.
 - [x] Implement scoring (based on the number of moves taken) and a timer.
 - [x] Include a reset button to start a new game.
+
+Hacker Mode:
+
+- [x] Include sounds in the game (for example, victory music after game completion).
+- [x] Create difficulty modes (for example, easy mode can have a 3x3 inner grid and 5x5 outer grid and normal mode can have a 4x4 inner grid and 6x6 outer grid) 
+- [x] Using local storage, store and display the name and score of the player with the highest score.
+- [x] Use media queries to make the page responsive on mobile.
