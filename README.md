@@ -24,4 +24,4 @@ Hacker Mode:
 - [x] Using local storage, store and display the name and score of the player with the highest score.
 - [x] Use media queries to make the page responsive on mobile.
 
-[Click here to enjoy playing Color Tiles]()
+[Click here to enjoy playing Color Tiles](https://suba1210.github.io/Color-Tiles-Game/)
