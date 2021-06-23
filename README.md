@@ -1,3 +1,5 @@
+[Click here to enjoy playing Color Tiles!](https://suba1210.github.io/Color-Tiles-Game/)
+
 Problem Statement: 
 
 Sivaraman has been tasked with selecting juniors for an online game. But he is too lazy to filter out all the applicants and wants to develop a game to determine how worthy the juniors are.
@@ -31,4 +33,4 @@ Hacker++ Mode:
 - [ ] Display the least number of moves after the game ends and maintain a  separate high score for two player games.
 - [ ] Implement difficulty modes with varying grid sizes for multiplayer games.
 
-[Click here to enjoy playing Color Tiles!](https://suba1210.github.io/Color-Tiles-Game/)
+
