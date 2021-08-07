@@ -1,4 +1,4 @@
-[Click here to enjoy playing Color Tiles!](https://suba1210.github.io/Color-Tiles-Game/)
+[Click here to play the game!](https://suba1210.github.io/Color-Tiles-Game/)
 
 Problem Statement: 
 
